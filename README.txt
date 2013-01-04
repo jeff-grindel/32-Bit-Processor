@@ -24,10 +24,11 @@ Instructions implmented: lw, sw, add, or, slt, beq, bne, ori, srl, lui
 		lui $t3,40
 
 Files
-a1_2.vhd						Combination of Instruction Memory and Instruction Decode
 
-a1_2_Test.vhd					Testbench Program for entity a1_2
-
+a1_2.vhd			|			Combination of Instruction Memory and Instruction Decode
+					|
+a1_2_Test.vhd		|			Testbench Program for entity a1_2
+					|
 a1_3.vhd						Combination of Instruction Memory, Instruction Decode and Register Data
 
 a1_3_Test.vhd					Testbench Program for entity a1_3
